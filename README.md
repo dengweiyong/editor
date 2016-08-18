@@ -1,0 +1,2 @@
+# editor
+jquery plug editor
